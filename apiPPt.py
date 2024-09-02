@@ -4,7 +4,7 @@ import requests
 import os
 
 # Set your Google API key here
-API_KEY = 'AIzaSyCA1OE3OPhqaHHw22p-C5vYFYWAOUi8cxI'
+API_KEY = key
 
 # Function to generate text based on a given topic using a hypothetical Google API
 def generate_text_from_topic(topic):
